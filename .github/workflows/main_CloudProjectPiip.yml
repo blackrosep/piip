@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'CloudProjectPiip'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3ab1eff7b55a44e3829924ea802ae52a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0c76b53df71c478bb057fb7fe1d2ea42 }}
         package: .
